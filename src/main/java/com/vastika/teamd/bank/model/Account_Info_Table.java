@@ -1,3 +1,4 @@
+// sushma code
 package com.vastika.teamd.bank.model;
 
 public class Account_Info_Table {
